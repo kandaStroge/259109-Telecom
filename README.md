@@ -4,4 +4,7 @@ Backup Sheet, You can recive new update at <http://www.ee.eng.cmu.ac.th/OnlineCo
 ## Reference
 Thai Telecommunications Encyclpedia (2009). "general topics in telecommunications" (<http://www.thaitelecomkm.org/TTE/>) *TTE*.
 
+### Dictionary
+Nectec [Recommend] <http://lexitron.nectec.or.th/telecom/>
+
 
